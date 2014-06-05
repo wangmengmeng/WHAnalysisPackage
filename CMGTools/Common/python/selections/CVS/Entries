@@ -1,0 +1,21 @@
+/btaggedjet_cfi.py/1.6/Mon May 21 09:59:17 2012//Tlucieg_Ap18
+/cicelectron_cfi.py/1.1/Mon Jun 27 22:05:58 2011//Tlucieg_Ap18
+/cutSummaryDiTau_cfi.py/1.1/Thu Apr 28 12:25:15 2011//Tlucieg_Ap18
+/cutSummaryElectron_cfi.py/1.1/Thu Apr  7 16:24:17 2011//Tlucieg_Ap18
+/cutSummaryMuon_cfi.py/1.1/Thu Apr  7 16:24:17 2011//Tlucieg_Ap18
+/cutSummaryPFJet_cfi.py/1.1/Thu Apr  7 16:24:17 2011//Tlucieg_Ap18
+/cutSummaryTau_cfi.py/1.1/Thu Apr 28 12:25:15 2011//Tlucieg_Ap18
+/cutidelectron_cfi.py/1.2/Tue Nov 27 12:28:12 2012//Tlucieg_Ap18
+/dijet_cfi.py/1.2/Wed May 11 12:36:30 2011//Tlucieg_Ap18
+/electronCutSummary_cff.py/1.1/Wed May 25 07:26:48 2011//Tlucieg_Ap18
+/isolation_cfi.py/1.3/Tue Jul 26 13:39:35 2011//Tlucieg_Ap18
+/jetCutSummary_cff.py/1.1/Wed May 25 07:26:48 2011//Tlucieg_Ap18
+/jetId_cfi.py/1.6/Tue Apr  9 11:44:56 2013//Tlucieg_Ap18
+/kinematics_cfi.py/1.6/Thu Apr 28 17:39:21 2011//Tlucieg_Ap18
+/muonCutSummary_cff.py/1.1/Wed May 25 07:26:48 2011//Tlucieg_Ap18
+/muonIDs_cfi.py/1.1/Thu Aug  9 11:29:28 2012//Tlucieg_Ap18
+/tauCutSummary_cff.py/1.1/Wed May 25 07:26:48 2011//Tlucieg_Ap18
+/vbtfelectron_cfi.py/1.5/Mon Jun 27 22:05:58 2011//Tlucieg_Ap18
+/vbtfmuon_cfi.py/1.3/Thu Mar 22 15:42:14 2012//Tlucieg_Ap18
+/zee_cfi.py/1.1/Wed Feb 23 17:16:55 2011//Tlucieg_Ap18
+D
